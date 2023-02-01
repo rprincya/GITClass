@@ -6,7 +6,8 @@ public class GITFirstPrgm {
 	
 		String s = "Prince";
 		System.out.println(s);
-
+		boolean contains = s.contains("r");
+		System.out.println(contains);
 
 	}
 
